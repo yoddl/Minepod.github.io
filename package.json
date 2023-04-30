@@ -1,8 +1,8 @@
 {
   "name": "minepod-website",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://github.com/yoddl/Minepod.github.io",
+  "private": false,
+  "homepage": "https://yoddl.github.io/Minepod.github.io/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
