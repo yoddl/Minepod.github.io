@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Minepod.github.io/static/css/main.29ff0269.css",
+    "main.js": "/Minepod.github.io/static/js/main.19957db4.js",
+    "index.html": "/Minepod.github.io/index.html",
+    "main.29ff0269.css.map": "/Minepod.github.io/static/css/main.29ff0269.css.map",
+    "main.19957db4.js.map": "/Minepod.github.io/static/js/main.19957db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ff0269.css",
+    "static/js/main.19957db4.js"
+  ]
+}
