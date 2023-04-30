@@ -1,0 +1,9 @@
+{
+          "name": "",
+          "description": "",
+          "usage": "",
+          "category": "",
+          "aliases": [
+                ""
+          ]
+    }

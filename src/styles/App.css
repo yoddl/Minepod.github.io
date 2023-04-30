@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;900&display=swap');
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Lato', sans-serif;
+    scroll-behavior: smooth;
+}
+
+
+:root {
+    --primary: #7289DA;
+    --dark: #232323;
+    --background: #23272A;
+    --pure-white: #fff;
+    --dark-gray: #999;
+    --dark-gray-more: rgb(68, 68, 68);
+    --hover-color: #26489a;
+
+
+    --dropdown-bg: #2a2f3b;
+}
+
+ul{
+    list-style: none;
+}
+body {
+    font-family: 'Lato', sans-serif;
+    background: var(--background);
+    color: var(--pure-white);
+    overflow-x: hidden;
+}
+
+.btn{
+    font-size: 15px;
+    background-color: var(--primary);
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 25px;
+    transition: all 0.3s ease-in-out;
+}
+.btn:hover{
+    color: var(--pure-white);
+    background-color: transparent;
+    border: 2px solid var(--pure-white);
+
+}
+.container {
+    width: 1152px;
+    max-width: 90%;
+    margin: 0 auto;
+}

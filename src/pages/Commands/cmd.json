@@ -1,0 +1,326 @@
+[
+      {
+            "name": "help",
+            "description": "Use the Help Command!",
+            "usage": ",help",
+            "category": "General",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "invite",
+            "description": "Invite Minepod to your Discord Server!",
+            "usage": ",invite",
+            "category": "General",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "discord",
+            "description": "Join the Support Discord Server!",
+            "usage": ",discord",
+            "category": "General",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Ban",
+            "description": "Ban Someone from your Discord Server!",
+            "usage": ",ban [bannable_user] [reason: default=None]",
+            "category": "Moderation",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Kick",
+            "description": "Kick a User From your Discord Server!",
+            "usage": ",kick [kickable_user]",
+            "category": "Moderation",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Purge",
+            "description": "Purge an amount of messages!",
+            "usage": ",purge [amount_of_messages]",
+            "category": "Moderation",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Bits",
+            "description": "Check a users bits!",
+            "usage": ",bits [user: default=author]",
+            "category": "Currency",
+            "aliases": [
+                  "balance", "bal", "b"
+            ]
+      },
+      {
+            "name": "Mine",
+            "description": "Go Mining!",
+            "usage": ",mine",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Shop",
+            "description": "Check whats in the Shop!",
+            "usage": ",shop",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Eggshop",
+            "description": "Check the Egg Shop!",
+            "usage": ",eggshop [egg_id]",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Buy",
+            "description": "Buy Something in the shop!",
+            "usage": ",buy [pickaxe_id]",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Buyegg",
+            "description": "Buy an Egg in the Egg Shop!",
+            "usage": ",buyegg [egg_id]",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Pickaxe",
+            "description": "Check your Current Pickaxe and its Stats!",
+            "usage": ",pickaxe",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Pets",
+            "description": "Check the Pets you have and their ID's!",
+            "usage": ",pets",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Equip",
+            "description": "Equip an Owned Pet!",
+            "usage": ",equip [pet_id] [slot]",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Unequip",
+            "description": "Unequip an Equipped Pet!",
+            "usage": ",unequip [slot]",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Sell",
+            "description": "Sell a Pet!",
+            "usage": ",sell [pet_id] [amount]",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Give",
+            "description": "Give a User some Bits! User must have above 250k to give them Bits!",
+            "usage": ",give [user] [amount]",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Gamble",
+            "description": "Gamble Bits! Max Gamble Amount is 500k!",
+            "usage": ",gamble [bits]",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Don",
+            "description": "Double Or Nothing! Use Wisely!",
+            "usage": ",don",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "f",
+            "description": "F in Chat.",
+            "usage": ",f",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "8ball",
+            "description": "Ask 8ball anything!",
+            "usage": ",8ball [input]",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "rate",
+            "description": "Get a Users Rating!",
+            "usage": ",rate [user: default=author]",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "meme",
+            "description": "Get a Random Meme from the Meme API!",
+            "usage": ",meme",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "trivia",
+            "description": "Use your brain on Discord for Trivia!?",
+            "usage": ",trivia",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "pet",
+            "description": "The Special Command to get a Random Pet from Our Support Servers #pet Channel!",
+            "usage": ",pet",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "gpt",
+            "description": "Ask Chat GPT a question!",
+            "usage": ",gpt [input]",
+            "category": "Fun",
+            "aliases": [
+                  ""
+            ]
+      },
+      {
+            "name": "joke",
+            "description": "Get a funny little joke 😁",
+            "usage": ",joke",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "dadjoke",
+            "description": "A little dad joke for sh*ts and giggles!",
+            "usage": ",dadjoke",
+            "category": "Fun",
+            "aliases": [
+                  ""
+            ]
+      },
+      {
+            "name": "compliment",
+            "description": "Compliment a User! Aww so nice",
+            "usage": ",compliment [user: default=author]",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "insult",
+            "description": "Insult a User! damn. 😡",
+            "usage": ",insult [user: default=author]",
+            "category": "Fun",
+            "aliases": [
+                  ""
+            ]
+      },
+      {
+            "name": "roll",
+            "description": "ROLL THE DICE!",
+            "usage": ",roll",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "rps",
+            "description": "Rock Paper Scissors!",
+            "usage": ",rps [rock_paper_scissors]",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "yomama",
+            "description": "Yo Mama is so ...",
+            "usage": ",yomama [user: default=author]",
+            "category": "Fun",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Giveaway",
+            "description": "Do a Giveaway or just grab a Random User!",
+            "usage": ",giveaway [amount_of_seconds]",
+            "category": "Giveaway",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
+            "name": "Reroll",
+            "description": "Reroll for another User!",
+            "usage": ",reroll",
+            "category": "Giveaway",
+            "aliases": [
+                  "rr"
+            ]
+      }
+]

@@ -1,0 +1,16 @@
+.link-header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.link-header h2{
+    margin-top: 60px;
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+.link-header button{
+    margin-bottom: 300px;
+}
+

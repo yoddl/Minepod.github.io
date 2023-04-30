@@ -1,0 +1,16 @@
+.policy h2{
+    text-align: center;
+    margin: 20px 0;
+    font-weight: 300;
+    font-size: 40px;
+}
+.policy li{
+    list-style: decimal;
+    margin-left: 5%;
+    margin-top: 5px;
+}
+.policy h3, .policy h4{
+    font-weight: 500;
+    margin-top: 10px;
+    font-size: 20px;
+}
