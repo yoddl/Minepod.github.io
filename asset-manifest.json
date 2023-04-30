@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yoddl/Minepod.github.io/static/css/main.29ff0269.css",
+    "main.js": "/yoddl/Minepod.github.io/static/js/main.ab34214d.js",
+    "index.html": "/yoddl/Minepod.github.io/index.html",
+    "main.29ff0269.css.map": "/yoddl/Minepod.github.io/static/css/main.29ff0269.css.map",
+    "main.ab34214d.js.map": "/yoddl/Minepod.github.io/static/js/main.ab34214d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ff0269.css",
+    "static/js/main.ab34214d.js"
+  ]
+}
