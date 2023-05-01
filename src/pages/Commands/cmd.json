@@ -171,6 +171,15 @@
             ]
       },
       {
+            "name": "Info",
+            "description": "See a Pickaxe's Information!",
+            "usage": ",info [pickaxe_id]",
+            "category": "Currency",
+            "aliases": [
+                  "None"
+            ]
+      },
+      {
             "name": "Don",
             "description": "Double Or Nothing! Use Wisely!",
             "usage": ",don",
