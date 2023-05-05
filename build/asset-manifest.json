@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minepod/static/css/main.29ff0269.css",
+    "main.js": "/minepod/static/js/main.083bf674.js",
+    "index.html": "/minepod/index.html",
+    "main.29ff0269.css.map": "/minepod/static/css/main.29ff0269.css.map",
+    "main.083bf674.js.map": "/minepod/static/js/main.083bf674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ff0269.css",
+    "static/js/main.083bf674.js"
+  ]
+}
